@@ -4,3 +4,4 @@ This repository is for understanding Git Concepts for Devops
 
 - Commands
 - Advanced Commands
+- GIT
